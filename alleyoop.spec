@@ -1,12 +1,12 @@
 Summary:	Graphical Valgrind front-end
 Summary(pl):	Graficzny frontend do Valgrinda
 Name:		alleyoop
-Version:	0.7.3
+Version:	0.8.0
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://dl.sf.net/alleyoop/%{name}-%{version}.tar.gz
-# Source0-md5:	df7bc031ab4925ba3bdf6a6ad4447d58
+# Source0-md5:	4be84f90a2d69fb55a276698dafb24a1
 URL:		http://alleyoop.sourceforge.net/
 BuildRequires:	GConf2-devel
 BuildRequires:	binutils-static
