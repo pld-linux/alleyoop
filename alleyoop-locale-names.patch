@@ -1,0 +1,12 @@
+diff -urN aa/alleyoop-0.8.2/configure.in alleyoop-0.8.2/configure.in
+--- aa/alleyoop-0.8.2/configure.in	2004-04-04 19:31:00.000000000 +0200
++++ alleyoop-0.8.2/configure.in	2004-06-12 23:26:06.602540856 +0200
+@@ -20,7 +20,7 @@
+ AC_DEFINE_UNQUOTED(GETTEXT_PACKAGE,"$GETTEXT_PACKAGE",[Package name for gettext])
+ 
+ dnl Add the languages which your application supports here.
+-ALL_LINGUAS="az cs ca de el en_GB es fr ga hr it ja mn ms nl no pl pt pt_BR ru sk sq sr sr@Latn sv zh_CN"
++ALL_LINGUAS="az cs ca de el en_GB es fr ga hr it ja mn ms nb nl pl pt pt_BR ru sk sq sr sr@Latn sv zh_CN"
+ AM_GLIB_GNU_GETTEXT
+ 
+ dnl look for the valgrind program
