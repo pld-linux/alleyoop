@@ -5,7 +5,7 @@ Version:	0.8.0
 Release:	1
 License:	GPL
 Group:		X11/Applications
-Source0:	http://dl.sf.net/alleyoop/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 # Source0-md5:	4be84f90a2d69fb55a276698dafb24a1
 URL:		http://alleyoop.sourceforge.net/
 BuildRequires:	GConf2-devel
