@@ -22,13 +22,13 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Alleyoop is a graphical front-end to the increasingly popular Valgrind
-memory checker for x86 Linux using the Gtk+ widget set and other GNOME
+memory checker for x86 Linux using the GTK+ widget set and other GNOME
 libraries for the X Window environment.
 
 %description -l pl
 Alleyoop to graficzny frontend do Valgrinda - coraz bardziej
 popularnego narzêdzia kontroluj±cego dostêp do pamiêci dla Linuksa
-na x86. Alleyoop u¿ywa zestawu widgetów Gtk+ i innych bibliotek GNOME
+na x86. Alleyoop u¿ywa zestawu widgetów GTK+ i innych bibliotek GNOME
 w ¶rodowisku X Window.
 
 %prep
