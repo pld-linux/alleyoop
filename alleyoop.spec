@@ -5,7 +5,7 @@ Version:	0.8.2
 Release:	1
 License:	GPL
 Group:		X11/Applications
-Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/alleyoop/%{name}-%{version}.tar.gz
 # Source0-md5:	a5507573d190352e7c77dccf05dbb2ef
 Patch0:		%{name}-locale-names.patch
 URL:		http://alleyoop.sourceforge.net/
