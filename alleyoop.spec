@@ -1,5 +1,5 @@
 Summary:	Graphical Valgrind front-end
-Summary(pl.UTF-8):   Graficzny frontend do Valgrinda
+Summary(pl.UTF-8):	Graficzny frontend do Valgrinda
 Name:		alleyoop
 Version:	0.8.2
 Release:	1
