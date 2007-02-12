@@ -1,5 +1,5 @@
 Summary:	Graphical Valgrind front-end
-Summary(pl):	Graficzny frontend do Valgrinda
+Summary(pl.UTF-8):   Graficzny frontend do Valgrinda
 Name:		alleyoop
 Version:	0.8.2
 Release:	1
@@ -25,11 +25,11 @@ Alleyoop is a graphical front-end to the increasingly popular Valgrind
 memory checker for x86 Linux using the GTK+ widget set and other GNOME
 libraries for the X Window environment.
 
-%description -l pl
+%description -l pl.UTF-8
 Alleyoop to graficzny frontend do Valgrinda - coraz bardziej
-popularnego narzêdzia kontroluj±cego dostêp do pamiêci dla Linuksa
-na x86. Alleyoop u¿ywa zestawu widgetów GTK+ i innych bibliotek GNOME
-w ¶rodowisku X Window.
+popularnego narzÄ™dzia kontrolujÄ…cego dostÄ™p do pamiÄ™ci dla Linuksa
+na x86. Alleyoop uÅ¼ywa zestawu widgetÃ³w GTK+ i innych bibliotek GNOME
+w Å›rodowisku X Window.
 
 %prep
 %setup -q
